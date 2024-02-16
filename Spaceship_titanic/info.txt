@@ -1,1 +1,3 @@
 The link of the Compition is: https://www.kaggle.com/competitions/spaceship-titanic/overview
+
+The data in the zip file in this folder is come from: https://www.kaggle.com/competitions/spaceship-titanic/data?select=sample_submission.csv
